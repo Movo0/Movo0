@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Movo0
+- 🌱 I’m currently learning python
